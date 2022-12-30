@@ -132,7 +132,7 @@
 		<itemref idref="chapter-12.xhtml"/>
 		<itemref idref="chapter-13.xhtml"/>
 		<itemref idref="chapter-14.xhtml"/>
-		<itemref idref="colophon.xhtml"/>
+    <itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
 </package>
