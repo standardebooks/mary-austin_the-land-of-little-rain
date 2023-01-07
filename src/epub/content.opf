@@ -43,12 +43,11 @@
 		<meta property="term" refines="#subject-4">sh2008104176</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008114549</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Short stories and essays detailing the landscape and inhabitants of the American Southwest.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Land of Little Rain is a loosely connected collection of essays and short stories detailing the land and inhabitants of the American Southwest. The individual works are connected via the waterways that connect the regions they describe. The stories and essays focus on themes such as the disconnects between humans and nature, the good that occurs where humans can create harmony with nature, and the supremacy of nature.&lt;/p&gt;
+			&lt;p&gt;The Land of Little Rain is a loosely connected collection of essays detailing the land and inhabitants of the American Southwest. The individual works are connected via the waterways that connect the regions they describe. The stories and essays focus on themes such as the disconnects between humans and nature, the good that occurs where humans can create harmony with nature, and the supremacy of nature.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mary-austin"&gt;Mary Austin&lt;/a&gt; first published The Land of Little Rain in 1903. The work highlighted the life of the desert at a time when the popular imagination pictured the desert as empty and lifeless.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
