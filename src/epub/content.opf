@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mary-austin/the-land-of-little-rain</dc:identifier>
 		<dc:date>2023-01-31T17:31:14Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta property="term" refines="#subject-5">sh2008114549</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:description id="description">Short stories and essays detailing the landscape and inhabitants of the American Southwest.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Short stories and essays detailing the landscape and inhabitants of the American Southwest.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Land of Little Rain&lt;/i&gt; is a loosely connected collection of essays detailing the land and inhabitants of the American Southwest. The individual works are connected via the waterways that connect the regions they describe. The stories and essays focus on themes that contrast the supremacy of nature with the effects of humans in natural spaces. Many stories follow the animals in their daily lives, the growth of plants, the seasons, and the various human inhabitants of the region. The author creates a lyrical view of the desert and lowlands at the base of the mountains, with a focus on animal and plant life. Humans are generally viewed as interlopers in an otherwise pristine and functional system.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mary-austin"&gt;Mary Austin&lt;/a&gt; first published &lt;i&gt;The Land of Little Rain&lt;/i&gt; in 1903. The work highlighted the life of the desert at a time when the popular imagination pictured the desert as empty and lifeless. At the time of writing there was much debate between those that wanted to anthropomorphize nature and present an idealistic view from animal perspectives, pejoratively referred to as “nature fakers,” and those that wanted to provide a clear and accurate view of the natural world. &lt;i&gt;The Land of Little Rain&lt;/i&gt; takes a creative approach but resists the pull to make the flora and fauna of the region more human-like, and instead faithfully presents them in their environment as the author observed them.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/365</dc:source>
 		<dc:source>https://archive.org/details/landoflittlerain00aust_3</dc:source>
